@@ -6,7 +6,7 @@ subtitle: <a href='#'>Indian Institute of Technology</a>. New Delhi, India.
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: My_profile.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>LCS2 Lab</p>
