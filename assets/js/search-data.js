@@ -495,13 +495,6 @@ ninja.data = [{
           window.open("mailto:%61%73%77%69%6E%69%6B%75%6D%61%72%70%61%64%68%69%31%39%39%35@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-github',
-        title: 'GitHub',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/https://github.com/AswiniNLP", "_blank");
-        },
-      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
