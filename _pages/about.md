@@ -1,7 +1,6 @@
 ---
 layout: about
-title: सरस्वति नमस्तुभ्यं वरदे कामरूपिणि । /
-विद्यारम्भं करिष्यामि सिद्धिर्भवतु मे सदा ॥
+title: सरस्वति नमस्तुभ्यं वरदे कामरूपिणि । / विद्यारम्भं करिष्यामि सिद्धिर्भवतु मे सदा ॥
 permalink: /
 subtitle: <a href='https://home.iitd.ac.in/'>Indian Institute of Technology</a>. New Delhi, India.
 
