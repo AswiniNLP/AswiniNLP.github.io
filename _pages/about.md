@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://home.iitd.ac.in/'>Indian Institute of Technology</a>. New Delhi, India.
 

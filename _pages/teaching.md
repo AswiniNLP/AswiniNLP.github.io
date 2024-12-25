@@ -1,12 +1,15 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching 
+description: 
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### Teaching Assistant for ELL409 (Machine Learning), 2024:
+- **Description:** Support the Machine Learning course by assisting in lectures and labs. Topics covered include supervised and unsupervised learning, neural networks, and practical applications of machine learning algorithms. Duties include grading projects and providing feedback to students.
 
-Organize your courses by years, topics, or universities, however you like!
+### Teaching Assistant for ELL101 (Digital Electronics), 2023, Semester 1:
+- **Description:** Assist in teaching Digital Electronics, covering topics such as logic circuits, digital systems, and circuit design. Responsibilities include preparing lab materials, grading assignments, and holding official TA hours for student support.
+
