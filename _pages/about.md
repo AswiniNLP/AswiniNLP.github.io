@@ -18,7 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 <p>सरस्वति नमस्तुभ्यं वरदे कामरूपिणि । </p>
-
 <p>विद्यारम्भं करिष्यामि सिद्धिर्भवतु मे सदा ॥ </p>
 
 <p>English Translation: O Maa Saraswati, O auspicious one, O fulfiller of all desires, Please take my Namaste, I am entering into studies, may I always be successful. </p>
