@@ -1,16 +1,17 @@
 ---
 layout: about
-title: about
+title: सरस्वति नमस्तुभ्यं वरदे कामरूपिणि । /
+विद्यारम्भं करिष्यामि सिद्धिर्भवतु मे सदा ॥
 permalink: /
-subtitle: <a href='#'>Indian Institute of Technology</a>. New Delhi, India.
+subtitle: <a href='https://home.iitd.ac.in/'>Indian Institute of Technology</a>. New Delhi, India.
 
 profile:
   align: left
   image: My_profile.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>LCS2 Lab</p>
-    <p>IIT, Delhi</p>
+  #more_info: >
+    #<p>LCS2 Lab</p>
+    #<p>IIT, Delhi</p>
     #<p>Your City, State 12345</p>
 
 news: true # includes a list of news items
