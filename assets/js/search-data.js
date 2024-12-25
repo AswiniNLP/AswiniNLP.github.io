@@ -495,11 +495,18 @@ ninja.data = [{
           window.open("mailto:%61%73%77%69%6E%69%6B%75%6D%61%72%70%61%64%68%69%31%39%39%35@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/AswiniNLP", "_blank");
+        },
+      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/aswini-kumar-08925572/", "_blank");
+          window.open("https://www.linkedin.com/in/aswini-kumar-08925572/", "_blank");
         },
       },{
         id: 'social-rss',
@@ -513,21 +520,21 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=https://scholar.google.com/citations?user=SNF6BsQAAAAJ&hl=en", "_blank");
+          window.open("https://scholar.google.com/citations?user=SNF6BsQAAAAJ", "_blank");
         },
       },{
         id: 'social-x',
         title: 'X',
         section: 'Socials',
         handler: () => {
-          window.open("https://twitter.com/https://x.com/aswiniandpunter", "_blank");
+          window.open("https://twitter.com/aswiniandpunter", "_blank");
         },
       },{
         id: 'social-youtube',
         title: 'YouTube',
         section: 'Socials',
         handler: () => {
-          window.open("https://youtube.com/@https://www.youtube.com/@aswinikumar5205", "_blank");
+          window.open("https://youtube.com/@aswinikumar5205", "_blank");
         },
       },{
       id: 'light-theme',
