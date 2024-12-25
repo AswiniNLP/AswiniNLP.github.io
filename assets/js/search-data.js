@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-सरस्वति-नमस्तुभ्यं-वरदे-कामरूपिणि-विद्यारम्भं-करिष्यामि-सिद्धिर्भवतु-मे-सदा",
-    title: "सरस्वति नमस्तुभ्यं वरदे कामरूपिणि । / विद्यारम्भं करिष्यामि सिद्धिर्भवतु मे सदा ॥",
+    id: "nav-about",
+    title: "about",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
