@@ -9,14 +9,15 @@ profile:
   image: My_profile.jpg
   image_circular: true # crops the image to make it circular
   #more_info: >
-    #<p>LCS2 Lab</p>
-    #<p>IIT, Delhi</p>
-    #<p>Your City, State 12345</p>
+  #<p>LCS2 Lab</p>
+  #<p>IIT, Delhi</p>
+  #<p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+
 <p>सरस्वति नमस्तुभ्यं वरदे कामरूपिणि । </p>
 <p>विद्यारम्भं करिष्यामि सिद्धिर्भवतु मे सदा ॥ </p>
 
